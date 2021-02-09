@@ -1,0 +1,3 @@
+int a =110;
+int b = 120;
+System.out.pribl(a+b)
